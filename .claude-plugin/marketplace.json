@@ -1,0 +1,11 @@
+{
+  "name": "agente-mantenimiento-local",
+  "owner": { "name": "Flock" },
+  "plugins": [
+    {
+      "name": "agente-mantenimiento",
+      "source": "./",
+      "description": "Analiza un ticket de Jira y genera reportes de QA y desarrollo"
+    }
+  ]
+}

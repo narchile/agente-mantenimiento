@@ -1,0 +1,5 @@
+{
+  "name": "agente-mantenimiento",
+  "description": "Analiza un ticket de Jira y genera reportes de QA y desarrollo",
+  "version": "0.1.0"
+}

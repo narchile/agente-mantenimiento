@@ -1,0 +1,7 @@
+.atl/
+.codegraph/
+.DS_Store
+__pycache__/
+analisis/
+# Seguimiento local de tareas del flujo ODD, no forma parte del proyecto
+odd/
