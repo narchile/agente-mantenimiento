@@ -144,3 +144,7 @@ plantillas/
 * El análisis es estático: no ejecuta tests ni la aplicación.
 * Toda afirmación sobre el código lleva evidencia `ruta:línea`; lo que no se pudo verificar se marca `[NO VERIFICADO]`.
 * El prompt está pensado para repositorios de Angular (Angular Elements / Web Components).
+
+---
+
+Desarrollado con [Claude Code](https://claude.com/claude-code) y [Gentle AI](https://github.com/Gentleman-Programming/gentle-ai).
